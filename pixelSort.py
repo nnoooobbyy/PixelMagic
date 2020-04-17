@@ -14,7 +14,6 @@ import multiprocessing
 import datetime
 import time
 import sys
-import random
 import os
 
 # tunable variables
