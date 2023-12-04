@@ -1,6 +1,6 @@
 '''
-ImageToText by Ryan Jokuti
-https://github.com/ryanjokuti
+ImageToText by nooby
+https://github.com/nnoooobbyy
 
 this script looks at each pixel in an image and turns them into a character based on their brightness
 *images are always required to be resized
