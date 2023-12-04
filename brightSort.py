@@ -1,6 +1,6 @@
 '''
-brightSort by Ryan Jokuti
-https://github.com/ryanjokuti
+brightSort by nooby
+https://github.com/nnoooobbyy
 
 this script looks at each pixel in an image and sorts them all in order of
 brightness
