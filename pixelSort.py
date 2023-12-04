@@ -1,6 +1,6 @@
 '''
-pixelSort by Ryan Jokuti
-https://github.com/ryanjokuti
+pixelSort by nooby
+https://github.com/nnoooobbyy
 
 this script looks at each pixel in an image and sorts a row of them from 
 brightest-darkest or vice-versa if they are within the defined brightness range
